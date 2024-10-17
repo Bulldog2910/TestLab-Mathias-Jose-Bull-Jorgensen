@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matni\\Desktop\\Skole\\TestLab\\TestLab\\TestLab.csproj",
+      "projectUniqueName": "C:\\Users\\matni\\Desktop\\Skole\\TestLab-Mathias-Jose-Bull-Jorgensen\\TestLab\\TestLab\\TestLab.csproj",
       "projectName": "TestLab",
-      "projectPath": "C:\\Users\\matni\\Desktop\\Skole\\TestLab\\TestLab\\TestLab.csproj",
+      "projectPath": "C:\\Users\\matni\\Desktop\\Skole\\TestLab-Mathias-Jose-Bull-Jorgensen\\TestLab\\TestLab\\TestLab.csproj",
       "packagesPath": "C:\\Users\\matni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matni\\Desktop\\Skole\\TestLab\\TestLab\\obj\\",
+      "outputPath": "C:\\Users\\matni\\Desktop\\Skole\\TestLab-Mathias-Jose-Bull-Jorgensen\\TestLab\\TestLab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matni\\AppData\\Roaming\\NuGet\\NuGet.Config",
